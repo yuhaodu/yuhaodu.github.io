@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Hi, I'm Yuhao, a PhD candidate at CompBias Lab at [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). I'm very lucky to be blessed by [Kenny Joseph](https://kennyjoseph.github.io/).   
+Hi, I'm Yuhao, a PhD candidate at CompBias Lab at [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). I'm very blessed to be advised by [Kenny Joseph](https://kennyjoseph.github.io/). 
+
+
 
 
 A data-driven personal website
