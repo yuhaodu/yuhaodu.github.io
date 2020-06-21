@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Yuhao, a PhD candidate at [computer science department of university at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). [Kenny Joseph](https://kennyjoseph.github.io/) is my advisor.   
+Hi, I'm Yuhao, a PhD candidate at CompBias Lab at [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). [Kenny Joseph](https://kennyjoseph.github.io/) is my advisor.   
 
 
 A data-driven personal website
