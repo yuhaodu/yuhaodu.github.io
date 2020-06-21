@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:  "https://twitter.com/yuhao_du_"
-  username               : 
+twitter:  
+  username               : "https://twitter.com/yuhao_du_"
 facebook:
   username               :
   app_id                 :
