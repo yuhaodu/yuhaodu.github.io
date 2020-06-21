@@ -86,7 +86,7 @@ author:
   location         : "Buffalo NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qJsi2bsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yuhaodu"
+  github           : "yuhaodu"
   google_plus      :
   keybase          :
   instagram        :
