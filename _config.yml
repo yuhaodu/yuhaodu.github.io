@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:  
-  username               : "https://twitter.com/yuhao_du_"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,6 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "a PhD candidate who works on computational social science"
   location         : "Buffalo NY"
+  twitter          : @yuhao_du_
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
