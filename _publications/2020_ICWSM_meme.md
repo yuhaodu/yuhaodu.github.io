@@ -1,7 +1,7 @@
 ---
 title: "Understanding Visual Memes: an Empirical Analysis of Text Superimposed on Memes Shared on Twitter"
 category: articles
-permalink: /publication/2020_ICWSM_meme/
+permalink: /publications/2020_ICWSM_meme/
 excerpt: "About: Meme, Social Media, NLP and Computer Vision "
 date: 2020-05-26
 venue: "Proceedings of the International AAAI Conference on Web and Social Media"
