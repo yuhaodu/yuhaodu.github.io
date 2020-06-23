@@ -3,7 +3,7 @@ title: "MDR Cluster-Debias: A Nonlinear Word Embedding Debiasing Pipeline"
 category: articles
 permalink: /publication/2020_SBP_word/
 excerpt: "About: Fairness, word embedding "
-date: 2020
+date: 2020-10-19
 venue: "International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation "
 ---
 
