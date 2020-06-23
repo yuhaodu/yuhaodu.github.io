@@ -2,7 +2,7 @@
 title: "Understanding visual memes: an empirical analysis of text superimposed on memes shared on Twitter"
 collection: talks
 type: "Talk"
-permalink: /talks/2020_IC2S2_mem
+permalink: /talks/2020_IC2S2_meme
 venue: "International Conference on Computational Social Science"
 date: 2020-07-17
 location: "Cambridge, MA"
