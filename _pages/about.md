@@ -13,8 +13,7 @@ Hi, I'm Yuhao, a PhD candidate at CompBias Lab at [University at Buffalo](https:
 
 # News
 
-one paper accepted by SBP-BRiMS, 2020!
-
-one paper accepted by ICWSM, 2020!
+<span style="color:red"> one paper accepted by SBP-BRiMS, 2020! </span>
+<span style="color:red"> one paper accepted by ICWSM, 2020! </span>
 
 
