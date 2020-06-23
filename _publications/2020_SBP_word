@@ -1,5 +1,5 @@
 ---
-title: "Garbage In, Garbage Out? Do Machine Learning Application Papers in Social Computing Report Where Human-Labeled Training Data Comes From?"
+title: "Understanding Visual Memes: an Empirical Analysis of Text Superimposed on Memes Shared on Twitter"
 category: articles
 permalink: /publications/2020_SBP_word/
 excerpt: "Many machine learning projects for new application areas involve teams of humans who label data for a particular purpose, from hiring crowdworkers to the paper’s authors labeling the data themselves. In this paper, we investigate to what extent a sample of machine learning application papers in social computing -- specifically papers from ArXiv and traditional publications performing an ML classification task on Twitter data -- give specific details about whether best practices in human annotation were followed. "
