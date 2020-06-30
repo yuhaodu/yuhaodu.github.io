@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I'm Yuhao, a PhD candidate at CompBias Lab at [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). I'm very blessed to be advised by [Kenny Joseph](https://kennyjoseph.github.io/). <br /> 
+Hi, I'm Yuhao, a PhD candidate at [CS4SG (Computing for Social Good) Lab](https://cs4sg.github.io/) at [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html). I'm very blessed to be advised by [Kenny Joseph](https://kennyjoseph.github.io/). <br /> 
 
 Boardly speaking, my research focuses on leveraging artificial intelligence to help tackle some challenging social problems. Currently, I'm working on building a system based on machine learning algorithms to help social workers distribute service to the youth in the foster care system. 
 
