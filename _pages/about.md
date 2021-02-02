@@ -13,7 +13,7 @@ Hi, I'm Yuhao, a PhD candidate at [CS4SG (Computing for Social Good) Lab](https:
 
 Boardly speaking, my research focuses on leveraging artificial intelligence to help tackle some challenging social problems. Currently, I'm working on building a system based on machine learning algorithms to help social workers distribute service to the youth in the foster care system. 
 
-My CV can be downloaded <a href="https://yuhaodu.github.io/files/new_cv.pdf">here.</a> 
+My CV can be downloaded <a href="https://yuhaodu.github.io/files/CV.pdf">here.</a> 
 
 # News
 
